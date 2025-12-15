@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Heart, Mail, Phone, MapPin } from "lucide-react";
-import logo from "@/assets/logo-aportecampo.jpeg";
+import logo from "@/assets/aportecampo_fondo.png";
 
 export function Footer() {
   return (
